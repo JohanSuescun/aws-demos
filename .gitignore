@@ -1,0 +1,26 @@
+# Archivos de estado local y de respaldo (muy importante)
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Directorio local de Terraform (plugins, módulos)
+.terraform/
+.terraform.lock.hcl
+
+# Archivos de variables con secretos
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Archivos de plan de ejecución
+*.tfplan
+
+# Archivos creados por comandos sed en MacOS antiguos
+*.tf-e
+
+# Logs de error
+crash.log
+crash.*.log

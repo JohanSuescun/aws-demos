@@ -1,0 +1,11 @@
+Amazon EC2 provides virtual servers in the cloud.
+
+EC2 allows:
+- full operating system control
+- scalability
+- pay as you go pricing
+
+Common EC2 pricing models:
+- On Demand
+- Reserved
+- Spot Instances

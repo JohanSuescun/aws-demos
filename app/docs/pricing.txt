@@ -1,0 +1,7 @@
+AWS pricing models include:
+- pay as you go
+- reserved pricing
+- savings plans
+- spot pricing
+
+Spot Instances help reduce costs.

@@ -1,0 +1,13 @@
+Amazon S3 is an object storage service.
+
+It provides:
+- scalability
+- durability
+- high availability
+- low cost storage
+
+S3 is commonly used for:
+- backups
+- static websites
+- data lakes
+- application storage
